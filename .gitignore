@@ -1,49 +1,55 @@
-### Python ###
-# Byte-compiled files
-*.py[cod]
+# ========== Python (Backend) ========== #
+# Virtual environment
+backend/venv/
+backend/.venv/
+backend/env/
+
+# Bytecode and cache
+backend/__pycache__/
 __pycache__/
+backend/*.py[cod]
 
-# Django
-*.log               # Log files
-*.pot               # Translation files
-db.sqlite3          # Default SQLite DB (you're using PostgreSQL)
-media/              # User-uploaded media (should be in .gitignore)
-
-# Environments
-.env                # Environment variables (critical to exclude!)
-.venv/              # Python virtual environment
-venv/
-env/
+# Environment variables
 backend/.env
-backend/.venv
+backend/.env.local
 
-### Node/React ###
-node_modules/       # Node dependencies (never commit)
-dist/              # Build output
-.npm
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# Logs and databases
+backend/*.sqlite3
+backend/*.log
 
-### IDE ###
-.idea/             # JetBrains IDE
-.vscode/           # VS Code config
-*.swp              # Vim swap files
+# ========== React (Frontend) ========== #
+# Dependencies
+frontend/node_modules/
+frontend/.pnp
+frontend/.pnp.js
+
+# Build files
+frontend/build/
+frontend/dist/
+frontend/.next/
+
+# Environment variables
+frontend/.env
+frontend/.env.local
+
+# Debug logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# ========== General (OS/IDE) ========== #
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
 *.swo
 
-### System ###
-.DS_Store          # macOS metadata
-Thumbs.db          # Windows thumbnail cache
+# Temp files
+*.tmp
 
-### Database ###
-*.sql              # SQL dumps (you might generate these)
-*.sqlite           # SQLite variants
-
-### Testing ###
-.coverage          # Coverage reports
-htmlcov/          # HTML coverage reports
-.pytest_cache/    # Pytest cache
-
-### Docs ###
-docs/_build/      # Built documentation
+# Docs
 /docs
