@@ -1,11 +1,15 @@
-import Test from './components/Test'
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import HomePage from './pages/public/HomPage';
 
 function App() {
   return (
-    <div className="min-h-screen bg-gray-50 p-8">
-      <Test />
-    </div>
-  )
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        {/* Add other routes later */}
+        </Routes>
+    </BrowserRouter>
+  );
 }
 
-export default App
+export default App;
