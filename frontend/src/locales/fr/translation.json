@@ -2,7 +2,13 @@
     "menu": {
         "about": "À propos",
         "projects": "Projets",
-        "teams": "Membres",
+        "teams": "Équipes",
         "contact_us": "Nous-contacter"
+    },
+    "heroSection": {
+        "headline": "Donnez vie à vos idées digitales avec précision",
+        "subheadline": "Des solutions web sur mesure, pensées pour la performance et la croissance",
+        "first-call-to-action": "Obtenez une consultation gratuite",  
+        "second-call-to-action": "Voir nos réalisations"
     }
 }
