@@ -4,5 +4,11 @@
         "projects": "Projects",
         "teams": "Teams",
         "contact_us": "Contact us"
+    },
+    "heroSection": {
+        "headline": "Build Your Digital Presence with Precision",
+        "subheadline": "Custom web engineered for performance and growth",
+        "first-call-to-action": "Get a Free Consultation",
+        "second-call-to-action": "View Our Work"
     }
 }
