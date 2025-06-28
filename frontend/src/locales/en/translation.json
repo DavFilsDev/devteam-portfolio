@@ -10,5 +10,25 @@
         "subheadline": "Custom web engineered for performance and growth",
         "first-call-to-action": "Get a Free Consultation",
         "second-call-to-action": "View Our Work"
+    },
+    "aboutSection": {
+        "title_header": "Our Story",
+        "sub_title_story": "From CLassroom to Code",
+        "content_story": "Founded in 2024 by a team of passionate IT students, SopaTek began as a shared vision to bridge the gap between academic knowledge and professional web development. Recognizing that many businesses struggle with outdated or ineffective websites, we've dedicated ourselves to delivering modern, performance-driven web solutions tailored to each client's unique needs.",
+        "project_label": "Projects",
+        "satisfaction_label": "Satisfaction",
+        "mission_title": "Mission",
+        "mission_content": "Empower businesses through custom web development combining cutting-edge technology with user-centric design.",
+        "vision_title": "Vision",
+        "vision_content": "Become the preferred web partner for businesses seeking quality and reliability.",
+        "differentiator_title": "What Sets Us Apart",
+        "differentiator_sub-title1": "Agile Development",
+        "differentiator_content1": "Iterative approach for evolving needs",
+        "differentiator_sub-title2": "Full-Cycle Dev",
+        "differentiator_content2": "From concept to deployment",
+        "differentiator_sub-title3": "Performance Focus",
+        "differentiator_content3": "Optimized for speed and SEO",
+        "differentiator_sub-title4": "UX-First Approach",
+        "differentiator_content4": "Designs that prioritize user experience"
     }
 }

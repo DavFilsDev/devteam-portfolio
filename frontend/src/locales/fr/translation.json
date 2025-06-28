@@ -10,5 +10,25 @@
         "subheadline": "Des solutions web sur mesure, pensées pour la performance et la croissance",
         "first-call-to-action": "Obtenez une consultation gratuite",  
         "second-call-to-action": "Voir nos réalisations"
+    },
+    "aboutSection": {
+        "title_header": "Notre Histoire",
+        "sub_title_story": "De la Salle de Classe au Code",
+        "content_story": "Fondée en 2024 par une équipe d'étudiants en informatique passionnés, SopaTek est née d'une vision commune : combler le fossé entre les connaissances académiques et le développement web professionnel. Conscients que de nombreuses entreprises peinent avec des sites obsolètes ou inefficaces, nous nous sommes engagés à fournir des solutions web modernes, performantes et adaptées aux besoins spécifiques de chaque client.",
+        "project_label": "Projets",
+        "satisfaction": "Satisfaction",
+        "mission_title": "Mission",
+        "mission_content": "Donner aux entreprises les moyens d’agir grâce à un développement web personnalisé alliant technologies de pointe et design centré sur l’utilisateur.",
+        "vision_title": "Vision",
+        "vision_content": "Devenir le partenaire web privilégié des entreprises en quête de qualité et de fiabilité.",
+        "differentiator_title": "Ce Qui Nous Distingue",
+        "differentiator_sub-title1": "Développement Agile",
+        "differentiator_content1": "Approche itérative pour répondre à des besoins évolutifs",
+        "differentiator_sub-title2": "Développement Complet",
+        "differentiator_content2": "Du concept au déploiement",
+        "differentiator_sub-title3": "Focus sur la Performance",
+        "differentiator_content3": "Optimisé pour la vitesse et le référencement (SEO)",
+        "differentiator_sub-title4": "Approche UX-First",
+        "differentiator_content4": "Des designs qui placent l’expérience utilisateur au premier plan"
     }
 }
