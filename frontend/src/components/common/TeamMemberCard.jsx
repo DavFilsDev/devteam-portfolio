@@ -4,7 +4,7 @@ import { Github, Linkedin } from "lucide-react";
 const TeamMemberCard = ({ member }) => {
   return (
     <div className="group [perspective:1000px] w-72 h-96">
-      <div className="relative w-full h-full transition-transform duration-700 [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)]">
+      <div className="relative w-full h-full transition-transform duration-700 [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)] border-2 border-primary rounded-2xl">
         
         {/* --- FRONT --- */}
         <div className="absolute inset-0 flex flex-col items-center justify-center bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-4 [backface-visibility:hidden]">
