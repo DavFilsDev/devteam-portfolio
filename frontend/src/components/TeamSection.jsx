@@ -13,7 +13,6 @@ const TeamSection = forwardRef(function TeamSection(props, ref) {
   });
 
   const setRefs = (node) => {
-    // attache les deux refs (inView + scroll)
     inViewRef(node);
     if (ref) ref.current = node;
   };
@@ -31,13 +30,10 @@ const TeamSection = forwardRef(function TeamSection(props, ref) {
         }`}
       >
         <h2 className="text-3xl sm:text-4xl font-bold text-dark dark:text-light">
-          {t("team.title", "Notre Équipe")}
+          {t("team.title")}
         </h2>
         <p className="mt-2 text-gray-600 dark:text-gray-300">
-          {t(
-            "team.subtitle",
-            "Une équipe passionnée, complémentaire et dédiée à vos projets."
-          )}
+          {t("team.subtitle")}
         </p>
       </div>
 

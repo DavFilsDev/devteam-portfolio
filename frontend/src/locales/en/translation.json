@@ -30,5 +30,41 @@
         "differentiator_content3": "Optimized for speed and SEO",
         "differentiator_sub-title4": "UX-First Approach",
         "differentiator_content4": "Designs that prioritize user experience"
+    },
+    "team": {
+        "title": "Our Team",
+        "subtitle": "A passionate, complementary, and dedicated team for your projects.",
+        "members": {
+            "1": {
+                "name": "RATIANDRAIBE Fanampinirina Miharisoa David Fils",
+                "role": "Team Leader / Backend Dev",
+                "skills": ["React", "Django", "PostgreSQL"],
+                "bio": "Passionate about building performant and well-structured applications."
+            },
+            "2": {
+                "name": "RA-FANOMEZANE Herimamy Fanomezana",
+                "role": "Frontend Developer",
+                "skills": ["Javascript", "React", "Java"],
+                "bio": "Always looking for modern and interactive designs."
+            },
+            "3": {
+                "name": "RATOLOJANAHARY Mamitiana Antonio",
+                "role": "Backend Developer",
+                "skills": ["Node.js", "Express", "MongoDB"],
+                "bio": "Specialist in robust and secure APIs."
+            },
+            "4": {
+                "name": "BAKARI Safidy Nantenaina Zinedis",
+                "role": "Frontend Developer",
+                "skills": ["Vue.js", "Tailwindcss", "UX/UI"],
+                "bio": "Building smooth and intuitive web apps."
+            },
+            "5": {
+                "name": "RAVELOJAONA Andriantina Christian ",
+                "role": "Backend Developer",
+                "skills": ["React", "Java(Spring boot)", "MySQL"],
+                "bio": "Turning ideas into captivating visual experiences."
+            }
+        }
     }
 }
