@@ -3,6 +3,7 @@ import Header from '../../components/common/Header';
 import Footer from '../../components/common/Footer';
 import HeroSection from '../../components/HeroSection';
 import AboutSection from '../../components/AboutSection';
+import TeamSection from '../../components/TeamSection';
 
 const HomePage = () => {
   
@@ -37,7 +38,9 @@ const HomePage = () => {
           ref={aboutRef}
         />
         <div ref={projectsRef} className="h-screen ">Projects Section</div>
-        <div ref={teamsRef} className="h-screen ">Teams Section</div>
+        <TeamSection 
+          ref={teamsRef}
+        />
         <div ref={servicesRef} className="h-screen ">Services Section</div>
         <div ref={technologiesRef} className="h-screen">Technologies Section</div>
         <div ref={contactRef} className="h-screen ">Contact Section</div>
