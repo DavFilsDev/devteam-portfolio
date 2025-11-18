@@ -15,10 +15,10 @@ const TeamMemberCard = ({ member }) => {
             alt={t(`team.members.${member.id}.name`)}
             className="w-24 h-24 rounded-full object-cover mb-4 border-2 border-primary shadow"
           />
-          <h3 className="text-xl font-bold text-dark dark:text-white">
+          <h3 className="text-xl text-center font-bold text-dark dark:text-white">
             {t(`team.members.${member.id}.name`)}
           </h3>
-          <p className="text-gray-600 dark:text-gray-300">
+          <p className="text-gray-600 text-center dark:text-gray-300">
             {t(`team.members.${member.id}.role`)}
           </p>
           <div className="flex flex-wrap gap-2 mt-3">
