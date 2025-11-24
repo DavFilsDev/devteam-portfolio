@@ -36,28 +36,28 @@
         "subtitle": "Discover what our team has recently accomplished.",
         "projects": {
             "1": {
-            "title": "e-kaly",
-            "description": "A modern online food delivery platform allowing users to browse restaurants, order meals, and track deliveries in real time.",
-            "technologies": ["React", "Django", "PostgreSQL"],
-            "url": ""
+                "title": "e-kaly",
+                "description": "A modern online food delivery platform allowing users to browse restaurants, order meals, and track deliveries in real time.",
+                "technologies": ["React", "Django", "PostgreSQL"],
+                "url": ""
             },
             "2": {
-            "title": "Typing Trainer",
-            "description": "A fun and interactive typing practice application designed to improve speed and accuracy through real-time challenges.",
-            "technologies": ["React", "Django", "PostgreSQL"],
-            "url": ""
+                "title": "Typing Trainer",
+                "description": "A fun and interactive typing practice application designed to improve speed and accuracy through real-time challenges.",
+                "technologies": ["React", "Django", "PostgreSQL"],
+                "url": ""
             },
             "3": {
-            "title": "E-commerce Platform",
-            "description": "A complete online shopping system featuring product management, a secure checkout process, and an intuitive user experience.",
-            "technologies": ["React", "Django", "PostgreSQL"],
-            "url": ""
+                "title": "E-commerce Platform",
+                "description": "A complete online shopping system featuring product management, a secure checkout process, and an intuitive user experience.",
+                "technologies": ["React", "Django", "PostgreSQL"],
+                "url": ""
             },
             "4": {
-            "title": "Trano Ahofa",
-            "description": "A real estate platform that helps users browse properties, compare options, and connect with owners or agents instantly.",
-            "technologies": ["React", "Django", "PostgreSQL"],
-            "url": ""
+                "title": "Trano Ahofa",
+                "description": "A real estate platform that helps users browse properties, compare options, and connect with owners or agents instantly.",
+                "technologies": ["React", "Django", "PostgreSQL"],
+                "url": ""
             }
         }
     },
@@ -94,6 +94,48 @@
                 "role": "Backend Developer",
                 "skills": ["React", "Java(Spring boot)", "MySQL"],
                 "bio": "Turning ideas into captivating visual experiences."
+            }
+        }
+    },
+    "services": {
+        "title": "Our Services",
+        "subtitle": "We provide complete digital solutions to support your project from start to finish.",
+        "list": {
+            "development": {
+                "title": "Full Web Development",
+                "description": "Building modern, high-performance websites tailored to your business needs.",
+                "items": ["Frontend", "Backend", "API", "Full Applications"],
+                "icon": "Code"
+            },
+            "uiux": {
+                "title": "UI/UX Design",
+                "description": "Designing clean and intuitive user interfaces focused on user experience.",
+                "items": ["Figma prototypes", "Modern design", "UX improvements"],
+                "icon": "Palette"
+            },
+            "branding": {
+                "title": "Brand Identity",
+                "description": "Creating a unique visual style for your brand to strengthen its image.",
+                "items": ["Logo", "Color palette", "Branding kit"],
+                "icon": "Brush"
+            },
+            "seo": {
+                "title": "SEO & Performance",
+                "description": "Optimizing your website to improve visibility and loading speed.",
+                "items": ["Technical SEO", "Speed optimization", "Full audit"],
+                "icon": "TrendingUp"
+            },
+            "maintenance": {
+                "title": "Maintenance & Support",
+                "description": "Continuous improvements, updates, and technical support to keep your platform running smoothly.",
+                "items": ["Fixes", "Updates", "Security"],
+                "icon": "Wrench"
+            },
+            "mobile": {
+                "title": "Mobile Development",
+                "description": "Building performant and intuitive mobile applications for Android and iOS, keeping your users engaged everywhere.",
+                "items": ["Native Apps", "React Native / Expo", "Progressive Web App (PWA)"],
+                "icon": "Smartphone"
             }
         }
     }

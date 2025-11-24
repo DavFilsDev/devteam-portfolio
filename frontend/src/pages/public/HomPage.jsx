@@ -5,6 +5,7 @@ import HeroSection from '../../components/HeroSection';
 import AboutSection from '../../components/AboutSection';
 import TeamSection from '../../components/TeamSection';
 import ProjectSection from '../../components/ProjectSection';
+import ServiceSection from '../../components/ServiceSection';
 
 const HomePage = () => {
   
@@ -44,7 +45,9 @@ const HomePage = () => {
         <TeamSection 
           ref={teamsRef}
         />
-        <div ref={servicesRef} className="h-screen ">Services Section</div>
+        <ServiceSection 
+          ref={servicesRef}
+        />
         <div ref={technologiesRef} className="h-screen">Technologies Section</div>
         <div ref={contactRef} className="h-screen ">Contact Section</div>
       </main>
