@@ -4,6 +4,7 @@ import Footer from '../../components/common/Footer';
 import HeroSection from '../../components/HeroSection';
 import AboutSection from '../../components/AboutSection';
 import TeamSection from '../../components/TeamSection';
+import ProjectSection from '../../components/ProjectSection';
 
 const HomePage = () => {
   
@@ -37,7 +38,9 @@ const HomePage = () => {
         <AboutSection 
           ref={aboutRef}
         />
-        <div ref={projectsRef} className="h-screen ">Projects Section</div>
+        <ProjectSection 
+          ref={projectsRef}
+        />
         <TeamSection 
           ref={teamsRef}
         />
