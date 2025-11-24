@@ -31,6 +31,36 @@
         "differentiator_sub-title4": "Approche UX-First",
         "differentiator_content4": "Des designs qui placent l’expérience utilisateur au premier plan"
     },
+    "project": {
+        "title": "Nos Derniers Projets",
+        "subtitle": "Découvrez ce que notre équipe a récemment accompli.",
+        "projects": {
+            "1": {
+                "title": "e-kaly",
+                "description": "Une plateforme moderne de livraison de repas permettant aux utilisateurs de parcourir des restaurants, commander des plats et suivre leurs livraisons en temps réel.",
+                "technologies": ["React", "Django", "PostgreSQL"],
+                "url": ""
+            },
+            "2": {
+                "title": "Typing Trainer",
+                "description": "Une application interactive et amusante d'entraînement à la frappe, conçue pour améliorer la vitesse et la précision grâce à des défis en temps réel.",
+                "technologies": ["React", "Django", "PostgreSQL"],
+                "url": ""
+            },
+            "3": {
+                "title": "Plateforme E-commerce",
+                "description": "Un système complet de boutique en ligne avec gestion de produits, processus de paiement sécurisé et expérience utilisateur intuitive.",
+                "technologies": ["React", "Django", "PostgreSQL"],
+                "url": ""
+            },
+            "4": {
+            "title": "Trano Ahofa",
+            "description": "Une plateforme immobilière permettant aux utilisateurs de rechercher des biens, comparer des options et contacter rapidement les propriétaires ou agents.",
+            "technologies": ["React", "Django", "PostgreSQL"],
+            "url": ""
+            }
+        } 
+    },
     "team": {
         "title": "Notre Équipe",
         "subtitle": "Une équipe passionnée, complémentaire et dédiée à vos projets.",
@@ -42,7 +72,7 @@
                 "bio": "Passionné par la création d’applications performantes et bien structurées."
             },
             "2": {
-                "name": "RA-FANOMEZANE Herimamy Fanomezana",
+                "name": "RA-FANOMEZANA Herimamy Fenohasina",
                 "role": "Développeur Frontend",
                 "skills": ["Javascript", "React", "Java"],
                 "bio": "Toujours à la recherche de designs modernes et interactifs."

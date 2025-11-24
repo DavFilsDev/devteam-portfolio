@@ -31,6 +31,36 @@
         "differentiator_sub-title4": "UX-First Approach",
         "differentiator_content4": "Designs that prioritize user experience"
     },
+    "project": {
+        "title": "Our Latest Projects",
+        "subtitle": "Discover what our team has recently accomplished.",
+        "projects": {
+            "1": {
+            "title": "e-kaly",
+            "description": "A modern online food delivery platform allowing users to browse restaurants, order meals, and track deliveries in real time.",
+            "technologies": ["React", "Django", "PostgreSQL"],
+            "url": ""
+            },
+            "2": {
+            "title": "Typing Trainer",
+            "description": "A fun and interactive typing practice application designed to improve speed and accuracy through real-time challenges.",
+            "technologies": ["React", "Django", "PostgreSQL"],
+            "url": ""
+            },
+            "3": {
+            "title": "E-commerce Platform",
+            "description": "A complete online shopping system featuring product management, a secure checkout process, and an intuitive user experience.",
+            "technologies": ["React", "Django", "PostgreSQL"],
+            "url": ""
+            },
+            "4": {
+            "title": "Trano Ahofa",
+            "description": "A real estate platform that helps users browse properties, compare options, and connect with owners or agents instantly.",
+            "technologies": ["React", "Django", "PostgreSQL"],
+            "url": ""
+            }
+        }
+    },
     "team": {
         "title": "Our Team",
         "subtitle": "A passionate, complementary, and dedicated team for your projects.",
