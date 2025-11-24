@@ -96,5 +96,47 @@
                 "bio": "Transformer des idées en expériences visuelles captivantes."
             }
         }
+    },
+    "services": {
+        "title": "Nos Services",
+        "subtitle": "Nous proposons des solutions digitales complètes pour accompagner votre projet.",
+        "list": {
+            "development": {
+                "title": "Développement Web Complet",
+                "description": "Création de sites web modernes, performants et sur mesure, adaptés aux besoins de votre entreprise.",
+                "items": ["Frontend", "Backend", "API", "Applications complètes"],
+                "icon": "Code"
+            },
+            "uiux": {
+                "title": "Design UI/UX",
+                "description": "Conception d’interfaces intuitives, attractives et centrées sur l’expérience utilisateur.",
+                "items": ["Maquettes Figma", "Design moderne", "Amélioration UX"],
+                "icon": "Palette"
+            },
+            "branding": {
+                "title": "Identité Visuelle",
+                "description": "Création d’un style unique pour votre marque afin de renforcer votre image professionnelle.",
+                "items": ["Logo", "Palette de couleurs", "Kit branding"],
+                "icon": "Brush"
+            },
+            "seo": {
+                "title": "SEO & Performance",
+                "description": "Optimisation de votre site pour améliorer sa visibilité et ses performances.",
+                "items": ["SEO technique", "Optimisation de vitesse", "Audit complet"],
+                "icon": "TrendingUp"
+            },
+            "maintenance": {
+                "title": "Maintenance & Support",
+                "description": "Amélioration continue, mise à jour et support technique pour assurer la stabilité de votre plateforme.",
+                "items": ["Correctifs", "Mises à jour", "Sécurité"],
+                "icon": "Wrench"
+            },
+            "mobile": {
+                "title": "Développement Mobile",
+                "description": "Création d'applications mobiles performantes et intuitives, compatibles Android et iOS, pour accompagner vos utilisateurs partout.",
+                "items": ["Applications natives", "React Native / Expo", "Progressive Web App (PWA)"],
+                "icon": "Smartphone"
+            }
+        }
     }
 }
