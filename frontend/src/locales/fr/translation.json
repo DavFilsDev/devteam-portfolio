@@ -30,5 +30,41 @@
         "differentiator_content3": "Optimisé pour la vitesse et le référencement (SEO)",
         "differentiator_sub-title4": "Approche UX-First",
         "differentiator_content4": "Des designs qui placent l’expérience utilisateur au premier plan"
+    },
+    "team": {
+        "title": "Notre Équipe",
+        "subtitle": "Une équipe passionnée, complémentaire et dédiée à vos projets.",
+        "members": {
+            "1": {
+                "name": "RATIANDRAIBE F. M. David Fils",
+                "role": "Chef de projet / Développeur Backend",
+                "skills": ["React", "Django", "PostgreSQL"],
+                "bio": "Passionné par la création d’applications performantes et bien structurées."
+            },
+            "2": {
+                "name": "RA-FANOMEZANE Herimamy Fanomezana",
+                "role": "Développeur Frontend",
+                "skills": ["Javascript", "React", "Java"],
+                "bio": "Toujours à la recherche de designs modernes et interactifs."
+            },
+            "3": {
+                "name": "RATOLOJANAHARY Mamitiana Antonio",
+                "role": "Développeur Backend",
+                "skills": ["Node.js", "Express", "MongoDB"],
+                "bio": "Spécialiste des APIs robustes et sécurisées."
+            },
+            "4": {
+                "name": "BAKARI Safidy Nantenaina Zinedis",
+                "role": "Développeur Frontend",
+                "skills": ["Vue.js", "Tailwindcss", "UX/UI"],
+                "bio": "Créer des applis web fluides et intuitives."
+            },
+            "5": {
+                "name": "RAVELOJAONA Andriantina Christian ",
+                "role": "Développeur Backend",
+                "skills": ["React", "Java(Spring boot)", "MySQL"],
+                "bio": "Transformer des idées en expériences visuelles captivantes."
+            }
+        }
     }
 }
