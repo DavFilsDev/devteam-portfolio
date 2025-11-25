@@ -67,7 +67,7 @@
         "members": {
             "1": {
                 "name": "RATIANDRAIBE F. M. David Fils",
-                "role": "Team Leader / Backend Dev",
+                "role": "Backend Dev",
                 "skills": ["React", "Django", "PostgreSQL"],
                 "bio": "Passionate about building performant and well-structured applications."
             },
