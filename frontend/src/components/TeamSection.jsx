@@ -23,7 +23,7 @@ const TeamSection = forwardRef(function TeamSection(props, ref) {
       className="py-20 px-4 sm:px-6 lg:px-8 bg-light dark:bg-dark transition-colors duration-300"
       ref={setRefs}
     >
-      <div className="max-w-6xl mx-auto">
+      <div className="mx-auto">
         {/* --- Titre --- */}
         <div
           className={`text-center transition-all duration-700 ${
