@@ -18,14 +18,8 @@ const HeroSection = ({ scrollToSection, refs}) =>{
         </p>
         <div className="flex gap-4 justify-center">
           <button 
-                onClick={() => scrollToSection(refs.contactRef)}
-            className="bg-primary hover:bg-secondary text-light px-8 py-3 rounded-lg font-medium transition-all"
-          >
-            {t('heroSection.first-call-to-action')}
-          </button>
-          <button 
             onClick={() => scrollToSection(refs.projectsRef)}
-            className="border-2 border-secondary text-dark dark:text-light px-8 py-3 rounded-lg font-medium bg-transparent hover:text-primary dark:hover:text-primary transition-all default"
+            className="border-2 border-secondary text-light px-8 py-3 rounded-lg font-medium bg-secondary dark:hover:text-primary transition-all default"
           >
             {t('heroSection.second-call-to-action')} →
           </button>

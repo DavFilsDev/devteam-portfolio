@@ -15,8 +15,6 @@ const HomePage = () => {
   const teamsRef = useRef(null);
   const servicesRef = useRef(null);
   const technologiesRef = useRef(null);
-  const contactRef = useRef(null);
-  
 
   const scrollToSection = (elementRef) => {
     window.scrollTo({
@@ -29,13 +27,13 @@ const HomePage = () => {
     <div className="min-h-screen bg-white">
       <Header 
         scrollToSection={scrollToSection}
-        refs={{ aboutRef, projectsRef, teamsRef, servicesRef, technologiesRef, contactRef }}
+        refs={{ aboutRef, projectsRef, teamsRef, servicesRef, technologiesRef }}
       />
       
       <main className="pt-15 bg-light dark:bg-dark"> 
         <HeroSection
           scrollToSection={scrollToSection}
-          refs={{ projectsRef, contactRef }}
+          refs={{ projectsRef}}
         />
         <AboutSection 
           ref={aboutRef}
@@ -52,7 +50,6 @@ const HomePage = () => {
         <TechnologySection 
           ref={technologiesRef}
         />
-        <div ref={contactRef} className="h-screen ">Contact Section</div>
       </main>
       
       <Footer />
