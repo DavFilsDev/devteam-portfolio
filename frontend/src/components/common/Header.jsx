@@ -62,12 +62,6 @@ const Header = ({ scrollToSection, refs }) => {
             >
               Technologies
             </button>
-            <button 
-              onClick={() => scrollToSection(refs.contactRef)}
-              className="text-dark dark:text-white hover:text-primary dark:hover:text-primary font-medium transition-colors"
-            >
-              {t('menu.contact_us')}
-            </button>
           </nav>
 
           <div className='flex justify-center items-center'>
