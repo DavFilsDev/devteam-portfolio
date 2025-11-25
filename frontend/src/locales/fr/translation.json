@@ -1,0 +1,208 @@
+{
+    "menu": {
+        "about": "À propos",
+        "projects": "Projets",
+        "teams": "Équipes",
+        "contact_us": "Nous-contacter"
+    },
+    "heroSection": {
+        "headline": "Donnez vie à vos idées digitales avec précision",
+        "subheadline": "Des solutions web sur mesure, pensées pour la performance et la croissance",
+        "first-call-to-action": "Obtenez une consultation gratuite",  
+        "second-call-to-action": "Voir nos réalisations"
+    },
+    "aboutSection": {
+        "title_header": "Notre Histoire",
+        "sub_title_story": "De la Salle de Classe au Code",
+        "content_story": "Fondée en 2024 par une équipe d'étudiants en informatique passionnés, SopaTek est née d'une vision commune : combler le fossé entre les connaissances académiques et le développement web professionnel. Conscients que de nombreuses entreprises peinent avec des sites obsolètes ou inefficaces, nous nous sommes engagés à fournir des solutions web modernes, performantes et adaptées aux besoins spécifiques de chaque client.",
+        "project_label": "Projets",
+        "satisfaction": "Satisfaction",
+        "mission_title": "Mission",
+        "mission_content": "Donner aux entreprises les moyens d’agir grâce à un développement web personnalisé alliant technologies de pointe et design centré sur l’utilisateur.",
+        "vision_title": "Vision",
+        "vision_content": "Devenir le partenaire web privilégié des entreprises en quête de qualité et de fiabilité.",
+        "differentiator_title": "Ce Qui Nous Distingue",
+        "differentiator_sub-title1": "Développement Agile",
+        "differentiator_content1": "Approche itérative pour répondre à des besoins évolutifs",
+        "differentiator_sub-title2": "Développement Complet",
+        "differentiator_content2": "Du concept au déploiement",
+        "differentiator_sub-title3": "Focus sur la Performance",
+        "differentiator_content3": "Optimisé pour la vitesse et le référencement (SEO)",
+        "differentiator_sub-title4": "Approche UX-First",
+        "differentiator_content4": "Des designs qui placent l’expérience utilisateur au premier plan"
+    },
+    "project": {
+        "title": "Nos Derniers Projets",
+        "subtitle": "Découvrez ce que notre équipe a récemment accompli.",
+        "projects": {
+            "1": {
+                "title": "e-kaly",
+                "description": "Une plateforme moderne de livraison de repas permettant aux utilisateurs de parcourir des restaurants, commander des plats et suivre leurs livraisons en temps réel.",
+                "technologies": ["React", "Django", "PostgreSQL"],
+                "url": ""
+            },
+            "2": {
+                "title": "Typing Trainer",
+                "description": "Une application interactive et amusante d'entraînement à la frappe, conçue pour améliorer la vitesse et la précision grâce à des défis en temps réel.",
+                "technologies": ["React", "Django", "PostgreSQL"],
+                "url": ""
+            },
+            "3": {
+                "title": "Plateforme E-commerce",
+                "description": "Un système complet de boutique en ligne avec gestion de produits, processus de paiement sécurisé et expérience utilisateur intuitive.",
+                "technologies": ["React", "Django", "PostgreSQL"],
+                "url": ""
+            },
+            "4": {
+            "title": "Trano Ahofa",
+            "description": "Une plateforme immobilière permettant aux utilisateurs de rechercher des biens, comparer des options et contacter rapidement les propriétaires ou agents.",
+            "technologies": ["React", "Django", "PostgreSQL"],
+            "url": ""
+            }
+        } 
+    },
+    "team": {
+        "title": "Notre Équipe",
+        "subtitle": "Une équipe passionnée, complémentaire et dédiée à vos projets.",
+        "members": {
+            "1": {
+                "name": "RATIANDRAIBE F. M. David Fils",
+                "role": "Développeur Backend",
+                "skills": ["React", "Django", "PostgreSQL"],
+                "bio": "Passionné par la création d’applications performantes et bien structurées."
+            },
+            "2": {
+                "name": "RA-FANOMEZANA Herimamy Fenohasina",
+                "role": "Développeur Frontend",
+                "skills": ["Javascript", "React", "Java"],
+                "bio": "Toujours à la recherche de designs modernes et interactifs."
+            },
+            "3": {
+                "name": "RATOLOJANAHARY Mamitiana Antonio",
+                "role": "Développeur Backend",
+                "skills": ["Node.js", "Express", "MongoDB"],
+                "bio": "Spécialiste des APIs robustes et sécurisées."
+            },
+            "4": {
+                "name": "BAKARI Safidy Nantenaina Zinedis",
+                "role": "Développeur Frontend",
+                "skills": ["Vue.js", "Tailwindcss", "UX/UI"],
+                "bio": "Créer des applis web fluides et intuitives."
+            },
+            "5": {
+                "name": "RAVELOJAONA Andriantina Christian ",
+                "role": "Développeur Backend",
+                "skills": ["React", "Java(Spring boot)", "MySQL"],
+                "bio": "Transformer des idées en expériences visuelles captivantes."
+            }
+        }
+    },
+    "services": {
+        "title": "Nos Services",
+        "subtitle": "Nous proposons des solutions digitales complètes pour accompagner votre projet.",
+        "list": {
+            "development": {
+                "title": "Développement Web Complet",
+                "description": "Création de sites web modernes, performants et sur mesure, adaptés aux besoins de votre entreprise.",
+                "items": ["Frontend", "Backend", "API", "Applications complètes"],
+                "icon": "Code"
+            },
+            "uiux": {
+                "title": "Design UI/UX",
+                "description": "Conception d’interfaces intuitives, attractives et centrées sur l’expérience utilisateur.",
+                "items": ["Maquettes Figma", "Design moderne", "Amélioration UX"],
+                "icon": "Palette"
+            },
+            "branding": {
+                "title": "Identité Visuelle",
+                "description": "Création d’un style unique pour votre marque afin de renforcer votre image professionnelle.",
+                "items": ["Logo", "Palette de couleurs", "Kit branding"],
+                "icon": "Brush"
+            },
+            "seo": {
+                "title": "SEO & Performance",
+                "description": "Optimisation de votre site pour améliorer sa visibilité et ses performances.",
+                "items": ["SEO technique", "Optimisation de vitesse", "Audit complet"],
+                "icon": "TrendingUp"
+            },
+            "maintenance": {
+                "title": "Maintenance & Support",
+                "description": "Amélioration continue, mise à jour et support technique pour assurer la stabilité de votre plateforme.",
+                "items": ["Correctifs", "Mises à jour", "Sécurité"],
+                "icon": "Wrench"
+            },
+            "mobile": {
+                "title": "Développement Mobile",
+                "description": "Création d'applications mobiles performantes et intuitives, compatibles Android et iOS, pour accompagner vos utilisateurs partout.",
+                "items": ["Applications natives", "React Native / Expo", "Progressive Web App (PWA)"],
+                "icon": "Smartphone"
+            }
+        }
+    },
+  "technologies": {
+    "title": "Technologies que nous utilisons",
+    "subtitle": "Voici les outils et frameworks que nous utilisons pour créer vos projets.",
+    "list": {
+            "tailwind": {
+                "name": "Tailwind CSS",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+            },
+            "javascript": {
+                "name": "JavaScript",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+            },
+            "typescript": {
+                "name": "TypeScript",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            },
+            "react": {
+                "name": "React",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+            },
+            "vue": {
+                "name": "Vue.js",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+            },
+            "django": {
+                "name": "Django",
+                "logo": "https://www.djangoproject.com/m/img/logos/django-logo-negative.png"
+            },
+            "java": {
+                "name": "Java",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+            },
+            "node": {
+                "name": "Node.js",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+            },
+            "express": {
+                "name": "Express.js",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+            },
+            "php": {
+                "name": "PHP",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+            },
+            "mongodb": {
+                "name": "MongoDB",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+            },
+            "mysql": {
+                "name": "MySQL",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+            },
+            "postgresql": {
+                "name": "PostgreSQL",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+            },
+            "flutter": {
+                "name": "Flutter",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+            },
+            "reactnative": {
+                "name": "React Native",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+            }
+        }
+    }
+}

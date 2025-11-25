@@ -1,0 +1,36 @@
+# ========== React (Frontend) ========== #
+# Dependencies
+frontend/node_modules/
+frontend/.pnp
+frontend/.pnp.js
+
+# Build files
+frontend/build/
+frontend/dist/
+frontend/.next/
+
+# Environment variables
+frontend/.env
+frontend/.env.local
+
+# Debug logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# ========== General (OS/IDE) ========== #
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp files
+*.tmp
+
+# Docs
+/docs

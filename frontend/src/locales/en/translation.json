@@ -1,0 +1,208 @@
+{
+    "menu": {
+        "about": "About",
+        "projects": "Projects",
+        "teams": "Teams",
+        "contact_us": "Contact us"
+    },
+    "heroSection": {
+        "headline": "Build Your Digital Presence with Precision",
+        "subheadline": "Custom web engineered for performance and growth",
+        "first-call-to-action": "Get a Free Consultation",
+        "second-call-to-action": "View Our Work"
+    },
+    "aboutSection": {
+        "title_header": "Our Story",
+        "sub_title_story": "From CLassroom to Code",
+        "content_story": "Founded in 2024 by a team of passionate IT students, SopaTek began as a shared vision to bridge the gap between academic knowledge and professional web development. Recognizing that many businesses struggle with outdated or ineffective websites, we've dedicated ourselves to delivering modern, performance-driven web solutions tailored to each client's unique needs.",
+        "project_label": "Projects",
+        "satisfaction_label": "Satisfaction",
+        "mission_title": "Mission",
+        "mission_content": "Empower businesses through custom web development combining cutting-edge technology with user-centric design.",
+        "vision_title": "Vision",
+        "vision_content": "Become the preferred web partner for businesses seeking quality and reliability.",
+        "differentiator_title": "What Sets Us Apart",
+        "differentiator_sub-title1": "Agile Development",
+        "differentiator_content1": "Iterative approach for evolving needs",
+        "differentiator_sub-title2": "Full-Cycle Dev",
+        "differentiator_content2": "From concept to deployment",
+        "differentiator_sub-title3": "Performance Focus",
+        "differentiator_content3": "Optimized for speed and SEO",
+        "differentiator_sub-title4": "UX-First Approach",
+        "differentiator_content4": "Designs that prioritize user experience"
+    },
+    "project": {
+        "title": "Our Latest Projects",
+        "subtitle": "Discover what our team has recently accomplished.",
+        "projects": {
+            "1": {
+                "title": "e-kaly",
+                "description": "A modern online food delivery platform allowing users to browse restaurants, order meals, and track deliveries in real time.",
+                "technologies": ["React", "Django", "PostgreSQL"],
+                "url": ""
+            },
+            "2": {
+                "title": "Typing Trainer",
+                "description": "A fun and interactive typing practice application designed to improve speed and accuracy through real-time challenges.",
+                "technologies": ["React", "Django", "PostgreSQL"],
+                "url": ""
+            },
+            "3": {
+                "title": "E-commerce Platform",
+                "description": "A complete online shopping system featuring product management, a secure checkout process, and an intuitive user experience.",
+                "technologies": ["React", "Django", "PostgreSQL"],
+                "url": ""
+            },
+            "4": {
+                "title": "Trano Ahofa",
+                "description": "A real estate platform that helps users browse properties, compare options, and connect with owners or agents instantly.",
+                "technologies": ["React", "Django", "PostgreSQL"],
+                "url": ""
+            }
+        }
+    },
+    "team": {
+        "title": "Our Team",
+        "subtitle": "A passionate, complementary, and dedicated team for your projects.",
+        "members": {
+            "1": {
+                "name": "RATIANDRAIBE F. M. David Fils",
+                "role": "Backend Dev",
+                "skills": ["React", "Django", "PostgreSQL"],
+                "bio": "Passionate about building performant and well-structured applications."
+            },
+            "2": {
+                "name": "RA-FANOMEZANE Herimamy Fanomezana",
+                "role": "Frontend Developer",
+                "skills": ["Javascript", "React", "Java"],
+                "bio": "Always looking for modern and interactive designs."
+            },
+            "3": {
+                "name": "RATOLOJANAHARY Mamitiana Antonio",
+                "role": "Backend Developer",
+                "skills": ["Node.js", "Express", "MongoDB"],
+                "bio": "Specialist in robust and secure APIs."
+            },
+            "4": {
+                "name": "BAKARI Safidy Nantenaina Zinedis",
+                "role": "Frontend Developer",
+                "skills": ["Vue.js", "Tailwindcss", "UX/UI"],
+                "bio": "Building smooth and intuitive web apps."
+            },
+            "5": {
+                "name": "RAVELOJAONA Andriantina Christian ",
+                "role": "Backend Developer",
+                "skills": ["React", "Java(Spring boot)", "MySQL"],
+                "bio": "Turning ideas into captivating visual experiences."
+            }
+        }
+    },
+    "services": {
+        "title": "Our Services",
+        "subtitle": "We provide complete digital solutions to support your project from start to finish.",
+        "list": {
+            "development": {
+                "title": "Full Web Development",
+                "description": "Building modern, high-performance websites tailored to your business needs.",
+                "items": ["Frontend", "Backend", "API", "Full Applications"],
+                "icon": "Code"
+            },
+            "uiux": {
+                "title": "UI/UX Design",
+                "description": "Designing clean and intuitive user interfaces focused on user experience.",
+                "items": ["Figma prototypes", "Modern design", "UX improvements"],
+                "icon": "Palette"
+            },
+            "branding": {
+                "title": "Brand Identity",
+                "description": "Creating a unique visual style for your brand to strengthen its image.",
+                "items": ["Logo", "Color palette", "Branding kit"],
+                "icon": "Brush"
+            },
+            "seo": {
+                "title": "SEO & Performance",
+                "description": "Optimizing your website to improve visibility and loading speed.",
+                "items": ["Technical SEO", "Speed optimization", "Full audit"],
+                "icon": "TrendingUp"
+            },
+            "maintenance": {
+                "title": "Maintenance & Support",
+                "description": "Continuous improvements, updates, and technical support to keep your platform running smoothly.",
+                "items": ["Fixes", "Updates", "Security"],
+                "icon": "Wrench"
+            },
+            "mobile": {
+                "title": "Mobile Development",
+                "description": "Building performant and intuitive mobile applications for Android and iOS, keeping your users engaged everywhere.",
+                "items": ["Native Apps", "React Native / Expo", "Progressive Web App (PWA)"],
+                "icon": "Smartphone"
+            }
+        }
+    },
+    "technologies": {
+        "title": "Technologies We Use",
+        "subtitle": "Here are the tools and frameworks we use to build your projects.",
+        "list": {
+            "tailwind": {
+                "name": "Tailwind CSS",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+            },
+            "javascript": {
+                "name": "JavaScript",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+            },
+            "typescript": {
+                "name": "TypeScript",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            },
+            "react": {
+                "name": "React",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+            },
+            "vue": {
+                "name": "Vue.js",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+            },
+            "django": {
+                "name": "Django",
+                "logo": "https://www.djangoproject.com/m/img/logos/django-logo-negative.png"
+            },
+            "java": {
+                "name": "Java",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+            },
+            "node": {
+                "name": "Node.js",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+            },
+            "express": {
+                "name": "Express.js",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+            },
+            "php": {
+                "name": "PHP",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+            },
+            "mongodb": {
+                "name": "MongoDB",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+            },
+            "mysql": {
+                "name": "MySQL",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+            },
+            "postgresql": {
+                "name": "PostgreSQL",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+            },
+            "flutter": {
+                "name": "Flutter",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+            },
+            "reactnative": {
+                "name": "React Native",
+                "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+            }
+        }
+    }
+}
