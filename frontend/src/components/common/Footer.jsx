@@ -19,8 +19,8 @@ const Footer = () => {
         {/* Contacts */}
         <div className="flex flex-col items-center md:items-start space-y-2">
           <p className="font-bold text-lg text-light dark:text-dark">Contacts</p>
-          <p className='text-light dark:text-dark'>Email : contact@esn.dev</p>
-          <p className='text-light dark:text-dark'>Téléphone : +261 34 00 000 00</p>
+          <p className='text-light dark:text-dark'>Email : fenohasinaherimamy@gmail.com</p>
+          <p className='text-light dark:text-dark'>Téléphone : +261 32 87 023 38</p>
         </div>
       </div>
     </footer>
